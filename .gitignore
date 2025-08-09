@@ -1,0 +1,9 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Database file - Others should create their own with init_db.py
+audit.db
+
+# VS Code settings
+.vscode/
